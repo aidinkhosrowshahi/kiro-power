@@ -1,8 +1,29 @@
 ---
-name: AWS Development Best Practices
+name: aws-dev-best-practices
+displayName: AWS Development Best Practices
 description: Comprehensive AWS development standards, best practices, and guidelines for building secure, reliable, and performant applications
-keywords: aws, development, best-practices, infrastructure, terraform, cloudformation, sam, python, react, security, well-architected, agentcore, strands, serverless, cloudfront, s3, lambda, dynamodb, iac, automation
-version: 1.0.0
+keywords:
+  - aws
+  - development
+  - best-practices
+  - infrastructure
+  - terraform
+  - cloudformation
+  - sam
+  - python
+  - react
+  - security
+  - well-architected
+  - agentcore
+  - strands
+  - serverless
+  - cloudfront
+  - s3
+  - lambda
+  - dynamodb
+  - iac
+  - automation
+author: Aidin Khosrowshahi
 ---
 
 # AWS Development Best Practices Power
